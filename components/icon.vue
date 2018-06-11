@@ -31,6 +31,7 @@
 
   svg {
     margin-right: 3px;
+    width: 20px;
   }
 }
 </style>

@@ -116,3 +116,7 @@ button svg {
 .list-group-item {
   border: 1px solid rgb(245, 245, 245)
 }
+
+code[class*="language-"], pre[class*="language-"] {
+  text-shadow: none
+}

@@ -3,9 +3,9 @@
     header
       div.container
         div.left
-          nuxt-link(to="/")
-            img.logo(src="../assets/img/logo-50.png")
-            span.logo-txt.hide-small Daily Card
+          // nuxt-link(to="/")
+          //   img.logo(src="../assets/img/logo-50.png")
+          //   span.logo-txt.hide-small Daily Card
         div.middle
         div.right
     // 登录框
